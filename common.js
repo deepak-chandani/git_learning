@@ -13,3 +13,6 @@ define([], function () {
 		ESCAPE_KEY: 27
 	};
 });
+
+// this change made in master branch
+// customer facing minor UI issue
