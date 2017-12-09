@@ -1,6 +1,8 @@
 /*global define*/
 'use strict';
 
+// Test comment while working on feature-123
+
 define([], function () {
 	return {
 		// Which filter are we using?
