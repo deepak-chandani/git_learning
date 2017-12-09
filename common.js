@@ -14,5 +14,6 @@ define([], function () {
 	};
 });
 
+
 // this change made in master branch
 // customer facing minor UI issue

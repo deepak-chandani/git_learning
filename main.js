@@ -1,6 +1,8 @@
 /*global require*/
 'use strict';
 
+// new changes 
+
 // Require.js allows us to configure shortcut alias
 require.config({
 	// The shim config allows us to configure dependencies for
