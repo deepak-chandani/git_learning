@@ -15,6 +15,8 @@ define([], function () {
 	};
 });
 
+
 // this change made in master branch
 // customer facing minor UI issue
 // test change
+// new change in feature-123 branch on 06 Jan 2018
