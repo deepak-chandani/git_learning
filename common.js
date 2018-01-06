@@ -14,4 +14,4 @@ define([], function () {
 	};
 });
 
-// this change made in feature-123 branch
+// new change in feature-123 branch on 06 Jan 2018
