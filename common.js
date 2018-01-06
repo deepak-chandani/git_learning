@@ -1,7 +1,8 @@
 /*global define*/
 'use strict';
 
-// Test comment while working on feature-123
+// changes in master branch
+// could create a conflict (as this was fixed in feature-123 branch)
 
 define([], function () {
 	return {
@@ -14,6 +15,6 @@ define([], function () {
 	};
 });
 
-
 // this change made in master branch
 // customer facing minor UI issue
+// test change
